@@ -1,0 +1,79 @@
+html, body {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+/* NAVBAR  */
+
+.fix{
+    padding: 5px;
+    border-radius: 50%;
+    background-color: #562900;
+}
+
+.fix-f{
+    padding: 5px 8px;
+    border-radius: 50%;
+    background-color: #562900;
+}
+
+.bkg-white{
+    background-color: #F8F8F8;
+}
+
+.colour{
+    color: #562900;
+}
+
+.bkg-color{
+    background-color: #562900;
+}
+
+.btn-white{
+    background-color: #F8F8F8;
+}
+
+/* Jumbotron */
+.btn-color{
+    background-color: #562900;
+    width: 40%;
+}
+
+.flower-bay{
+    padding-top: 40vh;
+}
+
+.flower-h{
+    font-weight: bold;
+font-size: 48px;
+line-height: 56px;
+font-family: Roboto;
+}
+
+.flower-p{
+    font-weight: 300;
+font-size: 36px;
+line-height: 42px;
+font-family: Roboto;
+}
+
+/* MAIN 1 */
+.bkg-main1{
+    background-color: #E5E5E5;
+}
+
+/* FOOTER */
+.in{
+    position: relative;
+}
+
+#name{
+    height: 7vh;
+}
+.signUp{
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    background-color: #562900;
+    color: #F8F8F8;
+}
